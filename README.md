@@ -15,3 +15,11 @@ Screenshots:
 
 <img width="817" height="366" alt="image" src="https://github.com/user-attachments/assets/5f7e6038-0a79-4c32-b9c8-a17e1fe5d570" />
 
+Area design:
+
+<img width="940" height="435" alt="image" src="https://github.com/user-attachments/assets/d0a21fd8-3b66-48c1-84d9-8f44bb4b02c6" />
+
+<img width="857" height="510" alt="image" src="https://github.com/user-attachments/assets/f72adfc8-1f71-469a-bc9e-c0b59ceb4af9" />
+
+
+
