@@ -6,3 +6,9 @@ Download the repository and play by running the exe file. (Scripts file is not n
 "In today’s world, technology has relevance in all aspects of life. Even professions far removed from IT will prove to benefit from technology somehow; whether it be leveraging the power of automated tasks or using social media to network and promote business. This has resulted in an endless stream of new users using the continuously expanding library of information and platforms that the internet is, regardless of their background or career path. Despite this, there is a shadow that expands at a similar rate, and grows to be just as complex, this being cyber threats.
 
 My solution is an educational game that teaches cybersecurity through interactive play and mechanics inspired by real scenarios. This approach aims to transform learning into an engaging and memorable journey, where players navigate a story infused with cybersecurity themes, making education both informative and entertaining." - (Tolu Olasupo, 2024)
+
+<img width="830" height="378" alt="image" src="https://github.com/user-attachments/assets/92ccab17-aff8-40ce-aa33-ede4a4299629" />
+
+<img width="827" height="411" alt="image" src="https://github.com/user-attachments/assets/aa2863c4-626b-4580-9078-6855e92d5334" />
+
+<img width="773" height="428" alt="image" src="https://github.com/user-attachments/assets/1bc133a9-bd1f-42ea-aa83-5fba1b3c982f" />
