@@ -7,8 +7,11 @@ Download the repository and play by running the exe file. (Scripts file is not n
 
 My solution is an educational game that teaches cybersecurity through interactive play and mechanics inspired by real scenarios. This approach aims to transform learning into an engaging and memorable journey, where players navigate a story infused with cybersecurity themes, making education both informative and entertaining." - (Tolu Olasupo, 2024)
 
+Screenshots:
+
 <img width="830" height="378" alt="image" src="https://github.com/user-attachments/assets/92ccab17-aff8-40ce-aa33-ede4a4299629" />
 
 <img width="827" height="411" alt="image" src="https://github.com/user-attachments/assets/aa2863c4-626b-4580-9078-6855e92d5334" />
 
-<img width="773" height="428" alt="image" src="https://github.com/user-attachments/assets/1bc133a9-bd1f-42ea-aa83-5fba1b3c982f" />
+<img width="817" height="366" alt="image" src="https://github.com/user-attachments/assets/5f7e6038-0a79-4c32-b9c8-a17e1fe5d570" />
+
