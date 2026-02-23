@@ -13,6 +13,13 @@ Screenshots:
 
 <img width="827" height="411" alt="image" src="https://github.com/user-attachments/assets/aa2863c4-626b-4580-9078-6855e92d5334" />
 
+<img width="845" height="302" alt="image" src="https://github.com/user-attachments/assets/0f8e7b3f-1b4f-4284-86b2-49fa43c70077" />
+
+<img width="755" height="462" alt="image" src="https://github.com/user-attachments/assets/154e6b5d-ff8f-40cc-af54-92ac08ff3ea0" />
+
+<img width="834" height="420" alt="image" src="https://github.com/user-attachments/assets/67c0c949-9542-40b0-8cfc-9679a81cb14b" />
+
+
 <img width="817" height="366" alt="image" src="https://github.com/user-attachments/assets/5f7e6038-0a79-4c32-b9c8-a17e1fe5d570" />
 
 Area design:
